@@ -10,4 +10,4 @@ O controle das tareas desse projeto será realizado pelo GitHub
 :package:nova funcionalidade
 :up:atualização
 :beetle:correção de bug
-:checked-flag:release
+:check-flag:release
